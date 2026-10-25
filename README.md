@@ -1,6 +1,6 @@
 # Hi, I’m Charchit 👋
 
-I’m here to explore and learn analytics and machine learning concepts, I prefer using Python and SQL.
+I am currently on a learning journey to deepen my understanding of statistical data analytics and machine learning algorithms.
 
 ## Currently learning
 
